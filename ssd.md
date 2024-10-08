@@ -1,20 +1,20 @@
-##Niilo.T web-tehtävä
+## Niilo.T web-tehtävä
 
-####Italic, ja lihavointi harjoitus.
+#### Italic, ja lihavointi harjoitus.
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-####Otsikko harjoitus
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+#### Otsikko harjoitus
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-####Colombian Symbolism in One Hundred Years of Solitude
+#### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -24,7 +24,7 @@ Here's some words about the book _One Hundred Years..._.
 ####The Latest News from [the BBC](www.bbc.com/news)
 
 
-####Linkkien lisääminen "variableen"
+#### Linkkien lisääminen "variableen"
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
@@ -33,10 +33,10 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: www.stumbleupon.com
 
 
-####Kuva harjoitukset
+#### Kuva harjoitukset
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-####Kuvien linkit "variableihin"
+#### Kuvien linkit "variableihin"
 ![Black cat][Black]
 
 ![Orange cat][Orange]
